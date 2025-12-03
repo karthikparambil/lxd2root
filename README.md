@@ -1,5 +1,5 @@
 # LXD2ROOT 
-## LXD/LXC Privilege Escalation Exploit
+### LXD/LXC Privilege Escalation Exploit
 
 ### Automates the classic “in-lxd-group ⇒ root” escalation using a privileged LXD container to mount the host filesystem and chroot.
 
