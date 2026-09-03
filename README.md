@@ -1,5 +1,5 @@
-# LXD2ROOT EXPLOIT(CVE-2023-5536)
-### LXD/LXC Privilege Escalation Exploit
+# LXD2ROOT 
+### LXD/LXC Privilege Escalation Exploit(CVE-2023-5536)
 
 ### Automates the classic “in-lxd-group ⇒ root” escalation using a privileged LXD container to mount the host filesystem and chroot.
 
